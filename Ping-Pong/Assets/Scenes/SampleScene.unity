@@ -679,6 +679,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   UserNameBox: {fileID: 670033609}
+  UserNameBox1: {fileID: 1480160821}
 --- !u!1 &557811590
 GameObject:
   m_ObjectHideFlags: 0
@@ -1595,7 +1596,7 @@ GameObject:
   - component: {fileID: 1480160822}
   - component: {fileID: 1480160821}
   m_Layer: 5
-  m_Name: Text (Legacy) (1)
+  m_Name: username1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
